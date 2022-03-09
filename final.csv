@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-09T21:55:48.099Z,-24.7135,70.0787,10,4.8,mb,,188,39.448,0.67,us,us6000h3f5,2022-03-09T22:24:08.040Z,Mid-Indian Ridge,earthquake,15.4,1.8,0.094,35,reviewed,us,us
+2022-03-09T20:38:28.638Z,38.1199,-118.113,11.1,2.5,ml,21,51.25,0.122,0.1393,nn,nn00835115,2022-03-09T21:33:43.357Z,"30 km S of Mina, Nevada",earthquake,,1.4,0.23,11,reviewed,nn,nn
+2022-03-09T18:40:35.912Z,37.7385,101.3584,10,4.4,mb,,68,10.744,1.06,us,us6000h3dm,2022-03-09T19:08:52.040Z,"111 km SW of Jinchang, China",earthquake,8.1,1.5,0.073,55,reviewed,us,us
